@@ -410,7 +410,7 @@
 						}
 					}, {
 						"message": {
-							"en_US": "",
+							"en_US": "Hello, this is the \\c[3]Arcane Teleporter\\c[0].",
 							"ko_KR": "안녕하세요, 여기는 \\c[3]아케인 텔레포터\\c[0]입니다."
 						},
 						"autoContinue": false,
@@ -432,7 +432,7 @@
 						}
 					}, {
 						"message": {
-							"en_US": "",
+							"en_US": "This serves as a landmark, and...",
 							"ko_KR": "이곳은 랜드마크의 역할도 하지만..."
 						},
 						"autoContinue": false,
@@ -443,7 +443,7 @@
 						}
 					}, {
 						"message": {
-							"en_US": "",
+							"en_US": "I can also help you test out \\c[3]new areas\\c[0] that are under development by the Arcane Lab.",
 							"ko_KR": "저를 통해 아케인 랩에서 개발 중인 \\c[3]신규 지역\\c[0]들을 체험해보실 수도 있습니다."
 						},
 						"autoContinue": false,
@@ -465,7 +465,7 @@
 						}
 					}, {
 						"message": {
-							"en_US": "",
+							"en_US": "Now, Where do you want to go?",
 							"ko_KR": "그럼, 어디로 가시겠습니까?"
 						},
 						"autoContinue": true,
@@ -477,7 +477,7 @@
 					}],
 					"elseStep": [{
 						"message": {
-							"en_US": "",
+							"en_US": "Where do you want to go?",
 							"ko_KR": "어디로 가시겠습니까?"
 						},
 						"autoContinue": true,
